@@ -1,8 +1,12 @@
 # 💫About Me :
 🔭 I’m currently working in Innovation Incubator Advisory as Software Engineer.
+
 👯 I’m looking to collaborate on flutter related discussions.
+
 🌱 I’m currently Improving Mobile Application Development Skills
+
 ⚡ Fun fact : Code never lies , Comments Sometimes do!
+
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m.4nish) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manish-verma-82844a220) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16952036) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/memerprogrammer) 
