@@ -5,7 +5,7 @@
 
 🌱 I’m currently Improving Mobile Application Development Skills
 
-⚡ Fun fact : Code never lies , Comments Sometimes do!
+⚡ Fun fact : Code never lies , Comments sometimes do!
 
 
 ## 🌐Socials
